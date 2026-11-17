@@ -51,3 +51,9 @@ Needs Python 3 with Pillow, and the Arial Narrow / Arial Black fonts from macOS
 - Names: 34 blocks of 12×2 tiles at `$3820`, stride `$34`. Their English tiles reuse slots
   `0x500–0x1081` that only the Chinese dialogue used.
 - Only free space in the 2 MB ROM: `$1F2F6A–$1FFFFF` (53 KB), too small for the 62 KB dialogue font.
+
+
+## License
+
+The tools, translation and patch are MIT-licensed (see `LICENSE`). The game itself is not
+included; you need your own dump.
