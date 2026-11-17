@@ -1,5 +1,13 @@
 # Rebel Star (叛星, Super A'Can) — English Translation
 
+## Screenshots
+
+<p>
+<img src="screenshots/1.png" width="400" alt="Opening story text over a planet">
+<img src="screenshots/2.png" width="400" alt="Title screen with New Game / Load Game">
+<img src="screenshots/3.png" width="400" alt="Mission briefing dialogue on the map">
+</p>
+
 ## Patch
 
 | Patch | Apply to | Result |
