@@ -1,0 +1,8 @@
+# never commit ROMs or anything built from them
+*.bin
+extracted/
+# raw OCR of the original Chinese script (local only)
+notes/script_zh.json
+screenshots/
+__pycache__/
+.DS_Store
